@@ -1,7 +1,8 @@
 repo_name: patrickhaley/GAMADV-XTD3
 report_id: c32a8b51afed12b19de9a131305b59aa
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-06T20:30:37+00:00'
+timestamp: '2024-01-05T08:28:37+00:00'
 requested_by: taers232c
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -43,6 +47,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2020-10-11 14:24:50.000000000 Z
@@ -55,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-05-16 02:00:28.000000000 Z
@@ -67,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3
   detection_source: Repo Metadata
 - name: cryptography
   description: Cryptography is a package which provides cryptographic recipes and
@@ -78,6 +85,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19850/default_db2ab2702f70e20c272f6ce65251108fb2b8f1ea.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2020-10-11 14:24:50.000000000 Z
@@ -90,6 +98,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20579/default_c2fe08b928beca268da55c7fc17121eb06b5e794.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-09-23 03:15:56.000000000 Z
@@ -102,6 +111,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20204/default_645e4030c04804ccf56eaad54caf7b7a73a44c64.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-12-18 17:05:00.000000000 Z
@@ -114,6 +124,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19897/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-12-18 17:05:00.000000000 Z
@@ -126,6 +137,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19955/default_1965f66bb5a4d2eb7b31193d7be6d8a9041d02b9.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-12-18 17:05:00.000000000 Z
@@ -138,6 +150,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20240/default_8a23a3884b3073b5e1695e2320e46529e60882b3.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-12-18 17:05:00.000000000 Z
@@ -150,6 +163,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19914/default_37434feaacace26053e41d6e4802560af16ebe44.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-12-18 17:05:00.000000000 Z
@@ -163,6 +177,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19835/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2022-01-21 19:00:48.000000000 Z
@@ -175,6 +190,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19992/default_aa5b3e77340c2bb80cd8e6a59cd82909abcdcd63.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-12-18 17:05:00.000000000 Z
@@ -188,6 +204,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20633/default_a11444edf33ff94e58c187eb4ce85472f4316c58.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-12-18 17:05:00.000000000 Z
@@ -200,6 +217,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/patrickhaley/GAMADV-XTD3/blob/master/src/requirements.txt
   detection_source: src/requirements.txt
   last_updated_by: Ross Scroggs
   last_updated_on: 2021-12-18 17:05:00.000000000 Z
